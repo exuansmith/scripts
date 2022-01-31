@@ -28,7 +28,6 @@ do
     sleep 3600
 done
 
-//git key:remote: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 
 
 
 
